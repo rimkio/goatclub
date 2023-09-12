@@ -1,0 +1,199 @@
+/*
+Theme Name: Demo
+Theme URI: https://example.com/
+Author: DevTeam
+Author URI: https://example.com/
+Description: Description
+Version: 1.0
+Text Domain: dev
+*/
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-ExtraBold.eot');
+    src: url('fonts/Inter-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Inter-ExtraBold.woff2') format('woff2'),
+        url('fonts/Inter-ExtraBold.woff') format('woff'),
+        url('fonts/Inter-ExtraBold.ttf') format('truetype'),
+        url('fonts/Inter-ExtraBold.svg#Inter-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-SemiBold.eot');
+    src: url('fonts/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Inter-SemiBold.woff2') format('woff2'),
+        url('fonts/Inter-SemiBold.woff') format('woff'),
+        url('fonts/Inter-SemiBold.ttf') format('truetype'),
+        url('fonts/Inter-SemiBold.svg#Inter-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('fonts/Gotham-Medium.woff2') format('woff2'),
+        url('fonts/Gotham-Medium.woff') format('woff');
+    font-family: 'Gotham';
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'gothambook';
+    src: url('fonts/gothambook-webfont.woff2') format('woff2'),
+        url('fonts/gothambook-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'digital_dreamregular';
+    src: url('fonts/digitaldream-webfont.woff2') format('woff2'),
+        url('fonts/digitaldream-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('fonts/Gotham-Bold.woff2') format('woff2'),
+        url('fonts/Gotham-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('fonts/HelveticaNeue-BlackCond.woff2') format('woff2'),
+        url('fonts/HelveticaNeue-BlackCond.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'gothambook';
+    font-weight: normal;
+    background: #F9F7F4;
+
+}
+
+input[type="submit"],
+input[type="button"],
+button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+input,
+textarea,
+select {
+    font-family: 'gothambook';
+    font-weight: normal;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-family: termina, sans-serif;
+    font-weight: 600;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    height: auto;
+    display: inline-block;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+a,
+a:hover,
+input[type="submit"],
+button {
+    text-decoration: none;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+*:focus {
+    outline: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 1200px;
+    margin: auto !important;
+}
+
+.container:after,
+.header_section:after,
+.header_container:after {
+    content: "";
+    display: table;
+    clear: both;
+    overflow: hidden;
+}
+
+.main-menu-more {
+    display: none
+}
+
+.navclsbtn {
+    display: none;
+}
