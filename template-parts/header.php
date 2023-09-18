@@ -11,10 +11,7 @@ $custom_logo_id = get_theme_mod('custom_logo');
 $logo = wp_get_attachment_image_src($custom_logo_id, 'full');
 ?>
 <div id="header_section" class="header_section reheader_sec f-nav">
-
    <div class="header_container">
-
-
       <div class="reheader_grid">
          <div class="relogo">
             <div class="site-logo"><a href="https://goatclub.com.au"><span class="custom-logo-link"><img width="1" height="1" src="https://goatclub.com.au/wp-content/uploads/2023/03/GC-Badge.svg" class="custom-logo" alt="" decoding="async"></span></a></div>

@@ -6,7 +6,7 @@
  * @package dev
  */
 
-echo "</div></div></main></div></div></div><!--End site wrap-->";
+echo "</div></main></div></div></div><!--End site wrap-->";
 
 /**
  * dev_hook_footer hook.
@@ -15,9 +15,8 @@ echo "</div></div></main></div></div></div><!--End site wrap-->";
 do_action( 'dev_hook_footer' );
 
 wp_footer();
+get_template_part( 'template-parts/script' );
 ?>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBV9JSW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+
 </body>
 </html>

@@ -1,3 +1,10 @@
+<div class="inst_sec" style="display:block">
+		<!-- <section id="block-13" class="widget widget_block"><div class="inst_head">
+<h2>@goatclub.au</h2>
+<p>Follow Us On <a href="https://www.instagram.com/goatclub.au/" target="_blank" rel="noopener">Instagram</a></p>
+</div></section> -->
+		<img src="https://goatclub.com.au/wp-content/themes/theme2021/assets/img/gallery.png">
+			</div>
 <footer id="site-footer" class="main-footer">
     <div class="footer_sec">
         <div class="container">
@@ -5,20 +12,12 @@
                 <div class="wp-block-columns fotr_row is-layout-flex wp-container-7 wp-block-columns-is-layout-flex">
                     <div class="wp-block-column f_col1 is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25.9%">
                         <figure class="wp-block-image size-large is-resized"><img decoding="async" src="https://goatclub.com.au/wp-content/uploads/2023/03/GC-Badge.svg" alt="" class="wp-image-535953" width="95"></figure>
-
-
-
                         <ul>
-
-
                             <li class="ftr_fb"><a href="https://www.facebook.com/goatclub.au" target="_blank"><img decoding="async" src="https://goatclub.com.au/wp-content/uploads/2023/03/ftr_facebook.svg"> </a></li>
                             <li class="ftr_you"><a href="https://www.youtube.com/channel/UCTAPk5wmJuGcgJGAQ5lMzHw" target="_blank"><img decoding="async" src="https://goatclub.com.au/wp-content/uploads/2023/03/ftr_youtube.svg"> </a></li>
                             <li class="ftr_inst"><a href="https://www.instagram.com/goatclub.au/" target="_blank"><img decoding="async" src="https://goatclub.com.au/wp-content/uploads/2023/03/ftr_instagram.svg"> </a></li>
                         </ul>
                     </div>
-
-
-
                     <div class="wp-block-column f_col2 is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:34.6%">
                         <div class="widget widget_nav_menu">
                             <nav class="menu-footermenu-container" aria-label="Menu">
@@ -32,9 +31,6 @@
                             </nav>
                         </div>
                     </div>
-
-
-
                     <div class="wp-block-column f_col3 is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:39.5%">
                         <ul>
                             <li class="ftr_email"><a href="mailto:support@goatclub.com.au">support@goatclub.com.au</a></li>
@@ -46,8 +42,6 @@
                 </div>
             </section>
         </div>
-
-
     </div>
     <div class="copyright_row">
         <div class="container">

@@ -1381,10 +1381,6 @@ get_header();
     </div>
 </div>
 <div class="inst_sec">
-    <!-- <section id="block-13" class="widget widget_block"><div class="inst_head">
-<h2>@goatclub.au</h2>
-<p>Follow Us On <a href="https://www.instagram.com/goatclub.au/" target="_blank" rel="noopener">Instagram</a></p>
-</div></section> -->
     <img src="https://goatclub.com.au/wp-content/themes/theme2021/assets/img/gallery.png">
 </div>
 <?php get_footer();

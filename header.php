@@ -17,4 +17,3 @@
             <div id="primary" class="content-area">
                 <main id="main" class="site-main" role="main">
                     <div class="page_wrap">
-                        <div class="<?= !is_page_template('templates/home.php') ? 'container' : '' ?>">

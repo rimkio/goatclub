@@ -5,7 +5,7 @@
 get_header();
 
 ?>
-<section data-vc-full-width="true" data-vc-full-width-init="true" class="vc_section about_banner wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1677662084252 vc_section-has-fill wpb_start_animation animated" style="position: relative; left: -284.5px; box-sizing: border-box; width: 1799px; padding-left: 284.5px; padding-right: 284.5px;">
+<section data-vc-full-width="true" data-vc-full-width-init="true" class="vc_section about_banner wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1677662084252 vc_section-has-fill wpb_start_animation animated" style="position: relative; left: -284.5px; box-sizing: border-box; width: 1799px; padding-left: 284.5px; padding-right: 284.5px;background-image: url(https://goatclub.com.au/wp-content/uploads/2023/03/about-banner.jpg?id=535751) !important">
     <div class="vc_row wpb_row vc_row-fluid">
         <div class="wpb_column vc_column_container vc_col-sm-12">
             <div class="vc_column-inner">
@@ -56,55 +56,7 @@ get_header();
                         <div class="wpb_wrapper">
                             <div class="klaviyo-form-SMdGp2 klaviyo-form form-version-cid-1">
                                 <div class="needsclick  kl-private-reset-css-Xuajs1" style="transform: translate(0px, 0px);">
-                                    <form class="needsclick klaviyo-form klaviyo-form-version-cid_1 kl-private-reset-css-Xuajs1" data-testid="klaviyo-form-SMdGp2" novalidate="" tabindex="-1" style="display: flex; flex-direction: row; box-sizing: border-box; width: 100%; overflow: visible; max-width: 400px; margin: 0px auto; border-radius: 10px; border-style: none; border-width: 0px; border-color: rgb(0, 0, 0); background-color: rgba(255, 255, 255, 0); background-image: url(&quot;https://d3k81ch9hvuctc.cloudfront.net/company/VVqN27/images/9d2558a6-d256-48fc-98b8-ae9cd9317f5d.png&quot;); background-repeat: no-repeat; background-size: 400px; background-position: 50% 50%; padding: 0px; flex: 1 1 0%;">
-                                        <div class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: column; width: 100%; margin: 0px; padding: 0px; min-height: 540px; justify-content: center;">
-                                            <div data-testid="form-row" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: row; align-items: stretch; position: relative;">
-                                                <div component="[object Object]" data-testid="form-component" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; justify-content: flex-start; padding: 20px 6px 0px; position: relative; flex: 1 0 0px;">
-                                                    <div class="kl-private-reset-css-Xuajs1 go3176171171" style="width: 100%;">
-                                                        <p style="text-align: center; font-size: 14px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;"><span style="font-size: 48px; font-family: 'Bebas Neue', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400; color: #ffffff;">Sign up for SMS</span></p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div data-testid="form-row" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: row; align-items: stretch; position: relative;">
-                                                <div component="[object Object]" data-testid="form-component" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; justify-content: flex-start; padding: 10px 6px; position: relative; flex: 1 0 0px;">
-                                                    <div class="kl-private-reset-css-Xuajs1 go3176171171" style="width: 100%;">
-                                                        <p style="font-size: 14px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400; text-align: center;"><span style="color: #ffffff; font-family: Montserrat, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400; font-size: 16px;">Fill in your details to stay in the loop</span></p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div data-testid="form-row" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: row; align-items: stretch; position: relative;">
-                                                <div component="[object Object]" data-testid="form-component" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; justify-content: flex-start; padding: 0px 20px; position: relative; flex: 1 0 0px;">
-                                                    <div class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-grow: 1; flex-direction: column; align-self: flex-end;"><input id="email_71669622" class="needsclick go4095284233 kl-private-reset-css-Xuajs1" type="email" autocomplete="email" name="email" tabindex="0" placeholder="Enter Your Email Address" aria-label="Enter Your Email Address" aria-invalid="false" options="[object Object]" style="box-sizing: border-box; border-radius: 4px; padding: 0px 0px 0px 16px; height: 40px; text-align: left; color: rgb(0, 0, 0); font-family: Montserrat, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: 0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(180, 187, 195);">
-                                                        <div class="needsclick  kl-private-reset-css-Xuajs1" style="width: 100%; position: relative;"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div data-testid="form-row" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: row; align-items: stretch; position: relative;">
-                                                <div component="[object Object]" data-testid="form-component" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; justify-content: flex-start; padding: 10px 20px 0px; position: relative; flex: 1 0 0px;">
-                                                    <div class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-grow: 1; flex-direction: column; align-self: flex-end;">
-                                                        <div class="needsclick go1398747822 kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: row; align-items: center; box-sizing: border-box; border-radius: 4px; padding: 0px; height: 40px; text-align: left; font-family: Montserrat, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: 0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(180, 187, 195);"><button class="needsclick go3582494590 kl-private-reset-css-Xuajs1" aria-label="Search Countries" type="button" role="combobox" aria-haspopup="listbox" aria-expanded="false" style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; box-sizing: border-box; border: 1px solid rgba(0, 0, 0, 0); width: 62px; height: 40px; cursor: pointer; padding-left: 10px; margin-right: 5px;"><img aria-label="Australia" title="Australia" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.4/flags/4x3/au.svg" style="display: inline-block; width: 1em; height: 1em; vertical-align: middle; border-radius: 3px;"><svg height="20" width="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false" class="" transform="" style="fill: rgb(180, 187, 195);">
-                                                                    <path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z"></path>
-                                                                </svg></button><input type="tel" data-testid="phoneNumberInput" id="phone_number_71669623" autocomplete="tel" name="phone-number" tabindex="0" placeholder="Enter Your Mobile Number" aria-label="Enter Your Mobile Number" aria-invalid="false" class="needsclick undefined kl-private-reset-css-Xuajs1" style="border: none; text-align: left; color: rgb(0, 0, 0); font-family: Montserrat, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: 0px; background-color: rgba(0, 0, 0, 0); flex-grow: 1;"></div>
-                                                        <div class="needsclick  kl-private-reset-css-Xuajs1" style="width: 100%; position: relative;"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div data-testid="form-row" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: row; align-items: stretch; position: relative;">
-                                                <div component="[object Object]" data-testid="form-component" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; justify-content: flex-start; padding: 10px 20px; position: relative; flex: 1 0 0px;">
-                                                    <div class="kl-private-reset-css-Xuajs1 go3176171171" style="width: 100%;">
-                                                        <p style="text-align: left;"><span style="color: #ffffff; font-size: 10px;">By submitting this form and signing up for texts, you consent to receive marketing text messages (e.g. promos, cart reminders) from Goat club at the number provided, including messages sent by autodialer. Consent is not a condition of purchase. Msg &amp; data rates may apply. Msg frequency varies. Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available). <a href="https://goatclub.com.au/privacy-policy/" style="color: #ffffff;">Privacy Policy</a> &amp; <a href="https://goatclub.com.au/terms-and-conditions/" style="color: #ffffff;">Terms</a>.</span></p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div data-testid="form-row" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; flex-direction: row; align-items: stretch; position: relative;">
-                                                <div component="[object Object]" data-testid="form-component" class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; justify-content: flex-start; padding: 10px 0px 20px; position: relative; flex: 0 1 auto; margin: 0px auto;">
-                                                    <div class="needsclick  kl-private-reset-css-Xuajs1" style="display: flex; align-items: center; width: 100%; height: auto;">
-                                                        <div class="needsclick  kl-private-reset-css-Xuajs1" style="position: relative; display: flex; align-items: center; width: 100%; height: auto;"><button type="button" tabindex="0" class="needsclick  kl-private-reset-css-Xuajs1"><img alt="SUBSCRIBE" src="https://d3k81ch9hvuctc.cloudfront.net/company/VVqN27/images/c85203a1-edd1-4ddd-9ac5-f8460183b8b0.png" role="button" aria-label="Submit and go next" class="needsclick  kl-private-reset-css-Xuajs1" style="max-width: 100%; width: 270px; height: auto; cursor: pointer;"></button></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div><input type="submit" tabindex="-1" value="Submit" style="display: none;">
-                                    </form>
+                                    The form here
                                 </div>
                             </div>
                         </div>
